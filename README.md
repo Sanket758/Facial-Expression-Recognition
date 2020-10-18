@@ -1,0 +1,2 @@
+# Facial-Expression-Recognition-
+So in this project i have used OpenCV's Harcascade face classifier to detect the face in a live video through webcam, and then we do the inference on that image with a pre-trained model which is trained on FER 2013 dataset which i download from kaggle. So model does the inference and the predicted class is returned to the program which is the displayed on bounding boxes.
